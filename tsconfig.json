@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+      "allowSyntheticDefaultImports": true,
+      "module": "ES6",
+      "lib": [ "es6", "dom" ],
+      "moduleResolution": "node",
+      "emitDecoratorMetadata": true,
+      "experimentalDecorators": true,
+      "target": "ES6",
+      "sourceMap": true,
+      "skipDefaultLibCheck": true,
+      "strict": true,
+      "types": ["node"]
+    },
+    "exclude": [
+        "bin",
+        "node_modules"
+    ]
+  }
