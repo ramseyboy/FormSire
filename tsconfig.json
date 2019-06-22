@@ -1,12 +1,12 @@
 {
     "compilerOptions": {
       "allowSyntheticDefaultImports": true,
-      "module": "ES6",
-      "lib": [ "es6", "dom" ],
+      "module": "commonjs",
+      "lib": [ "es6" ],
       "moduleResolution": "node",
       "emitDecoratorMetadata": true,
       "experimentalDecorators": true,
-      "target": "ES6",
+      "target": "es2017",
       "sourceMap": true,
       "skipDefaultLibCheck": true,
       "strict": true,

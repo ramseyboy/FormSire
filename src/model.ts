@@ -1,10 +1,9 @@
-import { Label } from './decorators'
+import {Label} from './decorators'
 
-export class CreateModel
-{
+export class CreateModel {
     @Label("Company Name")
     companyName!: string | null;
-    
+
     @Label("Billing Address")
     billingAddress!: string | null;
 

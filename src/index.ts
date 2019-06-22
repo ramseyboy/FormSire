@@ -1,8 +1,8 @@
-import { CreateModel } from "./model";
+import {CreateModel} from "./model";
 
 function main() {
     let m = new CreateModel();
-    console.log(m);    
+    console.log(m);
 }
 
 main();
